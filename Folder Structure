@@ -1,0 +1,13 @@
+event_detection_project/
+│
+├── data/
+│   └── historical_event_data.csv
+│
+├── src/
+│   ├── __init__.py
+│   ├── data_preprocessing.py
+│   ├── model_training.py
+│   ├── event_detection.py
+│   └── utils.py
+│
+└── main.py
